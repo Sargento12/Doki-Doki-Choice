@@ -1,0 +1,25 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-image: url(https://vignette.wikia.nocookie.net/doki-doki-literature-club/images/5/50/Club.png/revision/latest?cb=20171231181915);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font: normal 15pt Arial;
+}
+.dokis{
+  display: flex;
+  flex-direction: column;
+}
+img{
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  padding: 10px;
+}
+section{ 
+  text-align: center;
+  border-radius: 10px;
+  padding: 15px;
+  width: 170px;
+  margin: auto;
+}
